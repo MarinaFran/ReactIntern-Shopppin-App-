@@ -1,6 +1,4 @@
-Para el archivo README de tu proyecto, puedes incluir información clave que describa el propósito, las características y cómo los usuarios pueden interactuar con tu aplicación. Aquí hay una sugerencia de estructura para el README de tu proyecto **ReactIntern-Shopppin-App-**:
 
----
 
 # ReactIntern Shopppin App
 
