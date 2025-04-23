@@ -51,4 +51,3 @@ Este proyecto está bajo la licencia MIT. Consulta el archivo `LICENSE` para má
 
 ---
 
-Puedes personalizar esta estructura según las características específicas de tu proyecto. Por ejemplo, incluye capturas de pantalla o gifs mostrando cómo funciona la aplicación, o agrega secciones para explicar configuraciones adicionales.
